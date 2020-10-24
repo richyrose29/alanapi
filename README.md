@@ -1,0 +1,2 @@
+# alanapi
+News Generator Api
